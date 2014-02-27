@@ -1,0 +1,13 @@
+{
+  "name": "language-handlebars",
+  "version": "0.0.1",
+  "private": true,
+  "description": "A converstion of a [TextMate Handlebars package](https://github.com/drnic/Handlebars.tmbundle) for Atom",
+  "repository": "https://github.com/atom/language-handlebars",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}
