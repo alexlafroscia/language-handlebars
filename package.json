@@ -1,6 +1,6 @@
 {
   "name": "language-handlebars",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "private": true,
   "description": "A converstion of a [TextMate Handlebars package](https://github.com/drnic/Handlebars.tmbundle) for Atom",
   "repository": "https://github.com/alexlafroscia/language-handlebars",
@@ -8,6 +8,5 @@
   "engines": {
     "atom": ">0.50.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
