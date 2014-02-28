@@ -2,7 +2,7 @@
   "name": "language-handlebars",
   "version": "0.1.0",
   "private": true,
-  "description": "A converstion of a [TextMate Handlebars package](https://github.com/drnic/Handlebars.tmbundle) for Atom",
+  "description": "A conversion of a [TextMate Handlebars package](https://github.com/drnic/Handlebars.tmbundle) for Atom",
   "repository": "https://github.com/alexlafroscia/language-handlebars",
   "license": "MIT",
   "engines": {
